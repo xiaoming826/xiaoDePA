@@ -1,4 +1,4 @@
-# xiaoDePA
+#xiaoDePA
 
 ------
 ## idea and plan
@@ -11,3 +11,10 @@
 ## 参考
 
 > siri的设计模式 http://www.infoq.com/cn/articles/zjl-siri 
+> PA设计利用教务系统接口
+> 使用百度的语音和语义识别技术
+
+
+
+-----
+* 4月底 毕设答辩和论文
